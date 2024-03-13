@@ -1,6 +1,6 @@
 {
   "name": "myc-number",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "数字和大写中文数字互转",
   "keywords": ["数字转换"],
   "author": {
