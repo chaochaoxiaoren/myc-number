@@ -1,14 +1,25 @@
 {
   "name": "myc-number",
   "version": "1.0.0",
-  "description": "",
+  "description": "数字和大写中文数字互转",
+  "keywords": ["数字转换"],
+  "author": {
+    "name": "myc",
+    "email": "machaodeyouxiang@gmail.com"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/chaochaoxiaoren/myc-tool",
+  "bugs": {
+    "url": "https://github.com/chaochaoxiaoren/myc-tool/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaochaoxiaoren/myc-tool"
+  },
   "main": "./dist/myc-number.js",
   "scripts": {
     "build": "webpack"
   },
-  "keywords": [],
-  "author": "myc",
-  "license": "ISC",
   "devDependencies": {
     "webpack": "^5.90.3",
     "webpack-cli": "^5.1.4"
