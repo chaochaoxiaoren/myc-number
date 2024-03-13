@@ -5,6 +5,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'myc-number.js',
+    globalObject: 'this',
     library: {
       name: 'mycNumber',
       type: 'umd',
